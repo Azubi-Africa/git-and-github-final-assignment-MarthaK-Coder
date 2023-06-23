@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -        Tip Calculator     |  - Know your tip based on your spendings            | https:// https://github.com/MarthaK-Coder/Tip-Calculator      |
+| 2 |  -      Mortgage Calculator       |  - One step away to your dream home            | https:// https://github.com/MarthaK-Coder/Mortage-Calculator      |
+| 3 |  -   Sales Operations simulator          |  -     Simulate your sales operations        | https://  https://github.com/MarthaK-Coder/Sales-zero-stock-strategy-     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
